@@ -1,5 +1,6 @@
 # terraform-ec2-sample
-TerraformでVPC、EC2作成
+
+![Blank diagram - Page 1 (1)](https://user-images.githubusercontent.com/73768462/167977314-b68e5b13-81fa-4f9c-b9c0-4827f8aa036d.png)
 
 鍵を生成する
 
