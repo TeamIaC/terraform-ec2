@@ -15,7 +15,7 @@ terraform apply
 SSH接続する
 
 ```
-ssh -i ./example ec2-user@<Public IP>
+ssh -i example ec2-user@<Public IP>
 ```
 
 環境を削除するとき
